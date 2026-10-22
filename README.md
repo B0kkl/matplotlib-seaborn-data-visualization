@@ -1,6 +1,7 @@
 # Data Visualization with Matplotlib and Seaborn
 # shout out to Roadmap.sh
-data source: https://roadmap.sh/projects/data-visualization-tutorial
+
+data source: https://roadmap.sh/projects/stock-price-time-series
 ## Project Overview
 
 This project explores Python's data visualization capabilities using Matplotlib and Seaborn. Using the built-in Seaborn Tips dataset, I recreated five common chart types in both libraries to practice plotting syntax, customization, and visual presentation.
